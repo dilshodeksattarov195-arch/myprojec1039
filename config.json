@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "uploaderrync",
+        "uuid": 5416307,
+        "checksum": "1fhe1h"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
